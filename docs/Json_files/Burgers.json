@@ -1,22 +1,22 @@
 [
     {
         "name": "Der Vulkan-Burger",
-        "image": "/docs/Assets/Burgers/Volcano_no_background.png"
+        "image": "./Assets/Burgers/Volcano_no_background.png"
     },
     {
         "name": "Der Fünffache Feuerstapel",
-        "image": "/docs/Assets/Burgers/Feuerstapel_minus_background.png"
+        "image": "./Assets/Burgers/Feuerstapel_minus_background.png"
     },
     {
         "name": "Der Blaue Baron",
-        "image": "/docs/Assets/Burgers/Blue_Baron_no_background.png"
+        "image": "./Assets/Burgers/Blue_Baron_no_background.png"
     },
     {
         "name": "Der Schwarzwald-König",
-        "image": "/docs/Assets/Burgers/Schwarzwald_no_background.png"
+        "image": "./Assets/Burgers/Schwarzwald_no_background.png"
     },
     {
         "name": "Der Bernstein-Burger",
-        "image": "/docs/Assets/Burgers/Bernstein_no_background.png"
+        "image": "./Assets/Burgers/Bernstein_no_background.png"
     }
 ]
