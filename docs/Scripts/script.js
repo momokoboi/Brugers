@@ -13,7 +13,7 @@ let index_burger = 0
 let burgers_array = []
 async function fetchData(){
     try {
-        const response = await fetch('../Json_files/Burgers.json');
+        const response = await fetch('/docs/Json_files/Burgers.json');
         const data = await response.json();
   
         data.forEach((burger)=>{
