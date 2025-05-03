@@ -67,7 +67,7 @@
         "allergens": ["Milk", "Eggs", "Gluten"],
         "calories": 1500,
         "price": "€42",
-        "image": "./Assets/Burgers/Volcano_Burger.png"
+        "image": "./Assets/Burgers/Volcano_burger.png"
     },
     {
         "name": "Der Bernstein-Burger",
