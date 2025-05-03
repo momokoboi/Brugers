@@ -159,11 +159,12 @@ main{
     .menu_wrapper {
         position: relative;
         height: auto; /* Allow the height to adjust based on content */
-        margin-bottom: 15px;
+        margin-bottom: 8px;
         display: flex;
         align-items: center;
         justify-content: center;
         flex-flow: row wrap; /* Allow wrapping to prevent overflow */
+        padding: 0px;
         h1 {
             display: none;
             position: absolute;
@@ -192,7 +193,7 @@ main{
         }
         
         .info_wrapper{
-          padding: 50px;
+          padding-top: 20px;
           flex: 1 0;
           border: none;
           /* background-color: rgb(79, 39, 39); */
@@ -214,11 +215,12 @@ main{
           h2{
             text-align: center;
             font-family: var(--font3);
-            font-size: clamp(0.8rem,5vw,1.3rem);
-            width: 38vw;
+            font-size: clamp(1rem,2vw,1.3rem);
+            width: clamp(300px,50vw,500px);
             letter-spacing: 2%;
             padding: 5px;
             align-self: center;
+            /* white-space: nowrap; */
           }
 
           .ul_wrapper{
@@ -233,10 +235,11 @@ main{
               -moz-column-count: 2; /* Mozilla Firefox */
               column-count: 2; /* W3C */ 
               
-              column-gap: 80px;
+              column-gap: 10vw;
 
               li{
                 white-space: nowrap;
+                font-size: clamp(0.5rem,2.5vw,1rem);
               }
             }
           }
@@ -246,7 +249,7 @@ main{
             display: flex;
             justify-content: space-between;
             align-items: center;
-            gap: 200px;
+            gap: 15vw;
 
            >p{
               font-size: 4rem;
