@@ -1,0 +1,54 @@
+body {
+    font-family: 'Lateef', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+.nutzungsbedingungen-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+h2 {
+    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-top: 20px;
+    color: #444;
+}
+
+p {
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    margin: 10px 0;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .nutzungsbedingungen-container {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+}
