@@ -16,7 +16,7 @@
         "allergens": ["Milk", "Eggs", "Gluten", "Sulfites"],
         "calories": 2200,
         "price": "€79",
-        "image": "../Assets/Burgers/Fuenffacher_Feuerstapel.png"
+        "image": "./Assets/Burgers/Fuenffacher_Feuerstapel.png"
     },
     {
         "name": "Der Schwarzwald-König",
@@ -33,7 +33,7 @@
         "allergens": ["Milk", "Gluten", "Mustard"],
         "calories": 1400,
         "price": "€45",
-        "image": "../Assets/Burgers/Schwarzwald_Koenig.png"
+        "image": "./Assets/Burgers/Schwarzwald.png"
     },
     {
         "name": "Der Blaue Baron",
@@ -50,7 +50,7 @@
         "allergens": ["Milk", "Tree Nuts (Pistachio, Walnut)"],
         "calories": 1350,
         "price": "€59",
-        "image": "../Assets/Burgers/Blaue_Baron.png"
+        "image": "./Assets/Burgers/BlueBaron.png"
     },
     {
         "name": "Der Vulkan-Burger",
@@ -67,7 +67,7 @@
         "allergens": ["Milk", "Eggs", "Gluten"],
         "calories": 1500,
         "price": "€42",
-        "image": "../Assets/Burgers/Vulkan_Burger.png"
+        "image": "./Assets/Burgers/Volcano_Burger.png"
     },
     {
         "name": "Der Bernstein-Burger",
@@ -86,6 +86,6 @@
         "allergens": ["Shellfish", "Milk", "Eggs", "Gluten"],
         "calories": 1250,
         "price": "€69",
-        "image": "../Assets/Burgers/Bernstein_Burger.png"
+        "image": "./Assets/Burgers/Bersteinburger.png"
     }
 ]
