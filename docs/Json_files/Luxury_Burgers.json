@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Der Fünffache Feuerstapel",
+        "description": "A towering indulgence of dry-aged Wagyu beef and melting truffle cheddar, stacked five high in smoky, decadent layers.",
+        "ingredients": [
+            "5x Wagyu beef patties (150g each)",
+            "Truffle cheddar cheese",
+            "Black garlic aioli",
+            "Caramelized red onions",
+            "Crispy pancetta",
+            "Grilled jalapeño slice",
+            "Purple butter lettuce",
+            "Gold leaf brioche bun",
+            "Platinum skewer"
+        ],
+        "allergens": ["Milk", "Eggs", "Gluten", "Sulfites"],
+        "calories": 2200,
+        "price": "€79",
+        "image": "../Assets/Burgers/Fuenffacher_Feuerstapel.png"
+    },
+    {
+        "name": "Der Schwarzwald-König",
+        "description": "A forest-forged burger with wild meats, earthy mushrooms, and the iconic flavors of the Schwarzwald.",
+        "ingredients": [
+            "Venison & boar patty (180g)",
+            "Black Forest ham chips",
+            "Smoked Gruyère",
+            "Wild mushroom ragout",
+            "Roasted beetroot slices",
+            "Fig mustard",
+            "Charcoal sesame bun"
+        ],
+        "allergens": ["Milk", "Gluten", "Mustard"],
+        "calories": 1400,
+        "price": "€45",
+        "image": "../Assets/Burgers/Schwarzwald_Koenig.png"
+    },
+    {
+        "name": "Der Blaue Baron",
+        "description": "A noble blend of duck, Stilton, and poached pear, wrapped in the elegance of blue and gold.",
+        "ingredients": [
+            "Duck confit patty (160g)",
+            "Blue Stilton cheese",
+            "Poached pear slices",
+            "Candied walnuts",
+            "Pistachio-crusted butterfly pea bun",
+            "Port wine reduction",
+            "Lavender crème"
+        ],
+        "allergens": ["Milk", "Tree Nuts (Pistachio, Walnut)"],
+        "calories": 1350,
+        "price": "€59",
+        "image": "../Assets/Burgers/Blaue_Baron.png"
+    },
+    {
+        "name": "Der Vulkan-Burger",
+        "description": "A fiery creation erupting with spice, molten cheese, and seared chorizo heat.",
+        "ingredients": [
+            "Chorizo-beef patty (180g)",
+            "Pepper jack cheese",
+            "Cheese-stuffed jalapeños",
+            "Crispy chili threads",
+            "Smoked paprika aioli",
+            "Red tortilla shards",
+            "Volcanic black bun"
+        ],
+        "allergens": ["Milk", "Eggs", "Gluten"],
+        "calories": 1500,
+        "price": "€42",
+        "image": "../Assets/Burgers/Vulkan_Burger.png"
+    },
+    {
+        "name": "Der Bernstein-Burger",
+        "description": "A rare jewel of the sea and land, featuring lobster, saffron, and a touch of golden citrus.",
+        "ingredients": [
+            "Lobster & saffron patty (150g)",
+            "Citrus hollandaise foam",
+            "Candied orange peel",
+            "Mango-lime aioli",
+            "Shaved fennel",
+            "Champagne jelly cubes",
+            "Amber-glazed pretzel bun",
+            "Edible marigold petals",
+            "Sugar amber shard"
+        ],
+        "allergens": ["Shellfish", "Milk", "Eggs", "Gluten"],
+        "calories": 1250,
+        "price": "€69",
+        "image": "../Assets/Burgers/Bernstein_Burger.png"
+    }
+]

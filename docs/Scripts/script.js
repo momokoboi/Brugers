@@ -13,7 +13,6 @@ let index_burger = 0
 let burgers_array = []
 async function fetchData(){
     try {
-      // Brugers for github absolute path.
         const response = await fetch('./Json_files/Burgers.json');
         const data = await response.json();
   
@@ -21,7 +20,6 @@ async function fetchData(){
           burgers_array.push(burger)
         })
 
-        console.log(burgers_array)
       } catch (error) {
         console.error("Fehler beim Laden der Burger-Daten:", error);
       }
