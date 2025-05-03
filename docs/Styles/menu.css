@@ -85,7 +85,7 @@ header {
           pointer-events: none;
         }
   
-        &:not(.Special):hover::after {
+        &:not(.Special):not(.Special2):hover::after {
           width: 100%;
         }
   

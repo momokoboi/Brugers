@@ -76,7 +76,7 @@ header {
         position: relative;
         transition: font-size 0.4s ease;
   
-        &:not(.Special)::after {
+        &:not(.Special):not(.Special2)::after {
           content: "";
           background-color: var(--gold);
           padding: 2px 0;
